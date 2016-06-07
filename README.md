@@ -1,8 +1,10 @@
-Use docker-compose to fired up the DB
+
 
 ## Setup
 ```
 git clone https://github.com/adentes-org/sofia-db.git && cd sofia-db
+
+```
 ```bash
 $ docker-compose up -d
 ```
