@@ -2,7 +2,7 @@
 
 ## Setup
 ```
-git clone https://github.com/adentes-org/sofia-db.git && cd sofia-db
+git clone https://github.com/adentes-org/docker-sofiane.git
 
 ```
 ```bash
